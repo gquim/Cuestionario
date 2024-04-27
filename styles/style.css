@@ -1,8 +1,11 @@
 body{
   text-align: center;
-  background-color: rgb(17, 128, 109);
+  background-color: rgb(116, 7, 138);
   color:aliceblue;
 }
 h3{
-  color: aqua;
+  color: rgb(28, 3, 119);
+}
+h1{
+  color: lemonchiffon;
 }
