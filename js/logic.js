@@ -24,10 +24,15 @@ const questions = [
         question: "¿Cuál es el océano más grande del mundo?",
         options: ["Pacífico", "Atlántico", "Índico"],
         answer: "Pacífico"
+    },
+    {
+        question: "Qué país es el más extenso en la tierra.",
+        options: ["Estados Unidos","Brasil","Rusia"],
+        answer: "Rusia"
     }
 ];
 
-const form = document.getElementById('quizForm');
+const form = document.getElementById('Form');
 let score = 0;
 
 // Agregar las preguntas y opciones al formulario
